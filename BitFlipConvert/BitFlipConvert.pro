@@ -1,0 +1,2 @@
+SOURCES += \
+    BitFlipConvert.cxx
